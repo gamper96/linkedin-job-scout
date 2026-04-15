@@ -1,0 +1,17 @@
+{
+  "name": "linkedin-job-scout",
+  "version": "2.0.0",
+  "description": "Daily LinkedIn job scraper with AI resume matching and email digest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "schedule": "node scheduler.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "mammoth": "^1.7.0",
+    "nodemailer": "^6.9.0",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^22.0.0"
+  }
+}

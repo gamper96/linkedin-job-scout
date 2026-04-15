@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# User config (contains API keys and personal data - never commit this!)
+config.json
+
+# Browser session (contains LinkedIn login - never commit this!)
+browser-profile/
+
+# Results files
+results-*.json
+
+# Logs
+*.log
+scout.log
+
+# Debug files
+debug-screenshot.png
+job-page.png
+fix*.js
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Resume (personal file)
+my-resume.pdf
+my-resume.docx
+my-resume.txt

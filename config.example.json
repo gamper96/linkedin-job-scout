@@ -1,0 +1,22 @@
+{
+  "anthropicApiKey": "sk-ant-YOUR_KEY_HERE",
+
+  "roles": [
+    "Procurement Manager",
+    "Vendor Manager",
+    "Partnerships Manager"
+  ],
+
+  "location": "European Union",
+  "linkedinGeoId": "91000000",
+
+  "resumePath": "./my-resume.pdf",
+
+  "matchThreshold": 55,
+
+  "email": {
+    "user": "your.email@gmail.com",
+    "password": "yourgmailapppassword",
+    "to": "your.email@gmail.com"
+  }
+}
